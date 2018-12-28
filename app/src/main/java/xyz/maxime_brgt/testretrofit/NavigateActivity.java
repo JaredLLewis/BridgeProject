@@ -120,6 +120,7 @@ public class NavigateActivity extends AppCompatActivity {
 //                        .show();
 //                return;
 
+
 //            }
 
             for(String item : filePaths) {
