@@ -120,7 +120,7 @@ public class NavigateActivity extends AppCompatActivity {
 //                        .show();
 //                return;
 
-//
+///
 
 //            }
 
