@@ -119,6 +119,7 @@ public class NavigateActivity extends AppCompatActivity {
 //                Toast.makeText(MainActivity.this, "Choose a file before upload.", Toast.LENGTH_SHORT)
 //                        .show();
 //                return;
+
 //            }
 
             for(String item : filePaths) {
